@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![penrose triangle with galaxy] (https://e7.pngegg.com/pngimages/41/385/png-clipart-penrose-triangle-optical-illusion-geometry-shape-triangle-triangle-magenta.png)
